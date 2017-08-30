@@ -1,4 +1,7 @@
 <?php
+
+echo 'yes it done';
+
 if ($_GET['q'] && $_GET['maxResults']) {
   // Call set_include_path() as needed to point to your client library.
   require_once ($_SERVER["DOCUMENT_ROOT"].'/API/youtube/google-api-php-client/src/Google_Client.php');
