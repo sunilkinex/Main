@@ -1,1 +1,1 @@
-<?php echo 'site file'; ?>
+<?php echo 'sitemap'; ?>
